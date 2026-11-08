@@ -1,0 +1,27 @@
+{
+  "name": "smsbd-node-sdk",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for SMSBD.Asia High-Speed Bulk SMS & OTP Gateway in Bangladesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smsbd",
+    "smsbd.asia",
+    "bulk-sms-bangladesh",
+    "otp-gateway",
+    "sms-api-bd",
+    "mdrrana"
+  ],
+  "author": "Md. Rana <mdrrana.dev@gmail.com> (https://mdrrana.dev)",
+  "license": "MIT",
+  "homepage": "https://smsbd.asia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrrana/smsbd-node-sdk.git"
+  },
+  "bugs": {
+    "url": "https://smsbd.asia"
+  }
+}
